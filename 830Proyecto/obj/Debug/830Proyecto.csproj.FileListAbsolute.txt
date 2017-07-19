@@ -1,0 +1,9 @@
+c:\users\adolfo\documents\visual studio 2015\Projects\830Proyecto\830Proyecto\bin\Debug\830Proyecto.exe.config
+c:\users\adolfo\documents\visual studio 2015\Projects\830Proyecto\830Proyecto\bin\Debug\830Proyecto.exe
+c:\users\adolfo\documents\visual studio 2015\Projects\830Proyecto\830Proyecto\bin\Debug\830Proyecto.pdb
+c:\users\adolfo\documents\visual studio 2015\Projects\830Proyecto\830Proyecto\obj\Debug\830Proyecto.csprojResolveAssemblyReference.cache
+c:\users\adolfo\documents\visual studio 2015\Projects\830Proyecto\830Proyecto\obj\Debug\_830Proyecto.Properties.Resources.resources
+c:\users\adolfo\documents\visual studio 2015\Projects\830Proyecto\830Proyecto\obj\Debug\830Proyecto.csproj.GenerateResource.Cache
+c:\users\adolfo\documents\visual studio 2015\Projects\830Proyecto\830Proyecto\obj\Debug\830Proyecto.exe
+c:\users\adolfo\documents\visual studio 2015\Projects\830Proyecto\830Proyecto\obj\Debug\830Proyecto.pdb
+c:\users\adolfo\documents\visual studio 2015\Projects\830Proyecto\830Proyecto\obj\Debug\_830Proyecto.Form1.resources
